@@ -87,8 +87,7 @@ A professional, production-ready sales analytics dashboard built with Streamlit 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/sales-analytics-dashboard.git
-cd sales-analytics-dashboard
+https://github.com/Kplpdsn/Sales-analysis-dashboard-sync-gdrive
 ```
 
 2. **Install dependencies**
