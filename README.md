@@ -339,7 +339,7 @@ copies of the Software...
 
 ## 💡 About
 
-Originally created for TMB Harris Farm retail analytics, now open-sourced to help the community build better business intelligence tools.
+Originally created for retail analytics, now open-sourced to help the community build better business intelligence tools.
 
 **Built by**: KAz  
 **Contact**: [Your GitHub Profile]
